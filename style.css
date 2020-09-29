@@ -1,0 +1,33 @@
+.team-heading {
+    background-image: url("Assets/cool-background.png");
+}
+
+.card-header {
+    background-image: url("Assets/trianglify-lowres.png");
+    top: 26vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card-title {
+    align-content: center;
+}
+
+h1 {
+    font-size: 300%;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2, h3 {
+    font-size: 150%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.employee-card {
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 2px 5px 5px darkgrey;
+}
