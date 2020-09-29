@@ -14,7 +14,7 @@ This app is a team generator command line application. When deployed, the user i
 * User input will be generated in the result.html file
 
 ## Product Demo
-![Watch the video](https://vimeo.com/462922337)
+![(./Assets/vimeo-video.png)](https://vimeo.com/462922337)
 
 ## Tests
 
