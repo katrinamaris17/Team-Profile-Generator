@@ -1,6 +1,6 @@
 # Software Engineering Team Generator - Node CLI
 
-This app is a team generator command line application. When deployed, the user is prompted for information about the team manager and members.  The user can input any number of members as well as mix of engineers and interns. Once user input is complete, the application renders the information provided into an styled HTML file to generate a team roster.  
+This app is a team generator command line application. When deployed, the user is prompted for information about the team manager and members.  The user can input any number of members as well as mix of engineers and interns. Once user input is complete, the application renders the information provided into a styled HTML file to generate a team roster.  
 ![](./Assets/webpage-generated.png)
 
 ## Instructions
@@ -18,7 +18,7 @@ This app is a team generator command line application. When deployed, the user i
 
 ## Tests
 
-* Testing is ran through [jest](https://jestjs.io/). Testing can be done executed anytime through "npm run test". 
+* Testing is ran through [jest](https://jestjs.io/). Testing can be executed at anytime through "npm run test". 
 
 ![Testing](./Assets/testing.png)
 
